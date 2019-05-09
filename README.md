@@ -2,3 +2,6 @@
 Changing Interface: PABS -> Navision
 
 Create a SQL File to do the needed Conversion from PABS to Navision User-ID
+
+
+Check "Simple-greeting.js"
