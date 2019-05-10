@@ -929,33 +929,37 @@ class SimpleGreeting extends LitElement {
       var inner = '';
       var new_line = '\n';
 
-      this.data.forEach(element => {
-          console.log(element.id, element);
+      for (var i = 0, len = this.data.length; i < len; i++) {
+        console.log(i, this.data[i]);
 
-          var pabs = element['Arzt-Code-PABS'];
-          var nav = element['AdressNr-NAV'];
+          var pabs = this.data[i]['Arzt-Code-PABS'];
+          var nav = this.data[i]['AdressNr-NAV'];
 
-          inner = inner + '-- ' + element['Name']  + ' (' + pabs + ' -> ' + nav  + ')'+ new_line;
-          // var inner  = 'SELECT * FROM WHERE cis_uid = ' + element['Arzt-Code-PABS'] + new_line;
+
+          // inner = inner + '-- ' + this.data[i]['Name']  + ' (' + pabs + ' -> ' + nav  + ')'+ new_line;
+          // var inner  = 'SELECT * FROM WHERE cis_uid = ' + pabs + new_line;
 
           // UPDATE "user"
-          inner = inner + 'UPDATE "user"' + new_line;
+          // inner = inner + 'UPDATE "user"' + new_line;
           
           // SET cis_uid = _NEW_,
-          inner = inner + 'SET cis_uid = ' + nav + new_line;
+          // inner = inner + 'SET cis_uid = ' + nav + new_line;
           
           //     description = description || ' | PABS_UID: ' || cis_uid
-          inner = inner + "    description = description || ' | PABS_UID: " + pabs + "'" + new_line;
+          // inner = inner + "    description = description || ' | PABS_UID: " + pabs + "'" + new_line;
 
           // WHERE cis_uid = _OLD_
-          inner = inner + 'WHERE cis_uid = ' + pabs;
+          // inner = inner + 'WHERE cis_uid = ' + pabs;
 
+          inner = inner + '  (' + pabs + ', ' + nav + ')'
 
-          inner = inner + new_line + new_line;
+          inner = inner + new_line;
 
           
-          this.start = this.start + inner;
-      });
+      }
+
+      this.start = this.start + inner;
+
 
       console.log (this.start);
     }
