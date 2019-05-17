@@ -1,0 +1,7 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515142408||ADT^A31|45|P|2.4|||NE|NE|CH|
+EVN|A31|20190515142342||||20190515142342|
+PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||LIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||
+NK1|1|^^^^|100^^AdrBez^1012547|^^^^^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||
+NK1|2|Allemann^Peter^^^HR DR|101^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||
+PV1|1|S|QUEA^125^A2^901^^^^^QUEA|1||^^^^^^^^|^^^^^^^|234^Allemann^Peter^^Dr.^HR DR^^|1012547^^^^^^^|||KRANKHEIT||31||Nein||PSYCH|7050020|ALLG|KVG||||||||||||||||||QUEA|ANWESEND|||12|20190515100000||||||7050020|V|1|
+GT1|1|90580|Gesundheits- u. Fürsorgedirek.^^^^||Abt. Finanzen und Revision^^Bern^^3011^CH||||||||20190515000000|000000|2.||000000||||

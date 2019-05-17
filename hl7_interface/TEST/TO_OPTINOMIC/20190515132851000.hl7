@@ -1,0 +1,9 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515132851||ADT^A08|31|P|2.4|||NE|NE|CH|
+EVN|A08|20190515132757||||20190515132757|
+PID|1||15004^^^DynamicMED||Test Ausserkantonal^Zürich^Dr.^HR DR^Herr^^L^^^201906010000&|Ledigname|198901010000|001|||Langgasse 20^Postfach^Winterthur^ZH^8400^CH^H^^^^^201906010000&||031 308 10 10^PRN^PH^^^^^^~1231564621648^ORN^PH^^^^^^~^NET^Internet^test@test.ch^^^^^|1231564621648^WPN^PH|DES|UNBE|CHRKATH||756.3659.4238.57||||Winterthur ZH|001|1|CH|Testberuf|CH||||||||DES|||
+NK1|1|Ausserkantonal^Freida^^^Frau|6^Lebenspartner^AdrBez^|Testrasse 24^^Winterthur^^8401^^^^^^^201906010000&|1111^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190601100000||
+NK1|2|^^^^|100^^AdrBez^1012542|^^^^^^^^^^^201906010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190601100000||
+PV1|1|S|PTS^211^B1^905^1234546^^^^PTS|1||^^^^^^^^|^^^^^^^|^^^^^^^|1012542^^^^^^^|||KRANKHEIT||40||Nein||PSYCH|7050017|ALLG|KVG||||||||||||||||||PTS|ANWESEND|||11|20190601100000||||||7050017|V|1|
+PV2||EINZEL|F10.2^Dies ist eine Diagnose.||||||||||||||||||||||||||||||||||||
+GT1|1|90072|Swica Gesundheitsorganisation^^^^||Regionaldirektion Bern^Monbijoustrasse 16^Bern^^3001^CH|||||||123456|20190601000000|000000|1.|80756013840042865548|20220630000000||||
+GT1|2|90102|Gesundheitsdirektion ZH^^^^||eFaktura AKH2^Stampfenbachstr. 30^Zürich^^8090^CH|043 259 52 28|||||||20190601000000|000000|2.||000000||||

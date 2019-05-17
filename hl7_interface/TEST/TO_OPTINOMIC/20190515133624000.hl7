@@ -1,0 +1,5 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515133624||ADT^A02|33|P|2.4|||NE|NE|CH|
+EVN|A02|20190515133521||||20190515133521|
+PID|1||15004^^^DynamicMED||Test Ausserkantonal^Zürich^Dr.^HR DR^Herr^^L^^^201906010000&|Ledigname|198901010000|001|||Langgasse 20^Postfach^Winterthur^ZH^8400^CH^H^^^^^201906010000&||031 308 10 10^PRN^PH^^^^^^~1231564621648^ORN^PH^^^^^^~^NET^Internet^test@test.ch^^^^^|1231564621648^WPN^PH|DES|UNBE|CHRKATH||756.3659.4238.57||||Winterthur ZH|001|1|CH|Testberuf|CH||||||||DES|||
+PV1|1|S|QUEA^125^A2^901^1234546^^^^QUEA|1||PTS^211^B1^905^^^^^PTS|^^^^^^^|332^Anastasakis^Emmanouil^^Dr.^HR DR^^|1012542^Bögli^Peter^^^HERR^^|||KRANKHEIT||40||Nein||PSYCH|7050017|ALLG|KVG||||||||||||||||||QUEA|ANWESEND|||11|20190601100000||||||7050017|V|2|
+PV2||EINZEL|F10.2^Dies ist eine Diagnose.||||||||||||||||||||||||||||||||||||

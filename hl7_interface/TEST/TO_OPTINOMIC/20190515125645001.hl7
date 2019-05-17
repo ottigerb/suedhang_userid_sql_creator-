@@ -1,0 +1,11 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515125645||ADT^A08|23|P|2.4|||NE|NE|CH|
+EVN|A08|20190515115655||||20190515115655|
+PID|1||15003^^^DynamicMED||Test Kantonal^Bern^^FRAU^Frau^^L^^^201904010000&||199801010000|002|||Feldstrasse 30^^Münsingen^BE^3110^CH^H^^^^^201904010000&||031 828 14 15^PRN^PH^^^^^^~079 663 22 55^ORN^PH^^^^^^~^NET^Internet^info@suedhang.ch^^^^^|079 663 22 55^WPN^PH|DES|LEDIG|ISLAM||756.3659.4238.57|||||001|1|CH||CH||||||||DES|||
+NK1|1|Krebs^Thomas^^^Herr|1^Hausarzt^AdrBez^252|c/o Klinik Südhang^Südhang^Kirchlindach^^3038^^^^^^^201904010000&|031 828 14 14^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190401153000||
+NK1|2|Kanton^Elsi^^^Frau|8^Eltern^AdrBez^|Bachstrasse^^Kirchlindach^^3038^^^^^^^201904010000&|031 888 44 77^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190401153000||
+NK1|3|^^^^|100^^AdrBez^1012542|^^^^^^^^^^^201904010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190401153000||
+NK1|4|Strongyli^Lito^^^FR DR|101^^AdrBez^326|Südhang 1^^Kirchlindach^^^^^^^^^201904010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190401153000||
+PV1|1|S|QUEA^125^A2^901^^^^^QUEA|1||^^^^^^^^|252^Krebs^Thomas^^^Herr^^|326^Strongyli^Lito^^Dr.^FR DR^^|1012542^^^^^^^|||KRANKHEIT||31||Nein||PSYCH|7050016|ALLG|KVG||||||||||||||||||QUEA|ANWESEND|||30|20190401153000||||||7050016|V|1|
+PV2||EINZEL|^||||||||||||||||||||||||||||||||||||
+GT1|1|90072|Swica Gesundheitsorganisation^^^^||Regionaldirektion Bern^Monbijoustrasse 16^Bern^^3001^CH|||||||123456|20190401000000|000000|1.|80756013840042865548|20220630000000||||
+GT1|2|90580|Gesundheits- u. Fürsorgedirek.^^^^||Abt. Finanzen und Revision^^Bern^^3011^CH||||||||20190401000000|000000|2.|80756013840042865548|20220630000000||||

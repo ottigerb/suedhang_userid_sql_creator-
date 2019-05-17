@@ -1,0 +1,839 @@
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:37:35 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:37:40 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:37:57 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:38:10 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:38:47 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:39:04 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:39:11 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:41:03 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:41:20 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:41:26 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:42:07 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:42:14 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:44:47 Online
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z1 /  []:
+  Rec: 'MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190501143134||ADT^A08|4|P|2.4|||NE|NE|CH|'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z2 /U []:
+  Rec: 'EVN|A08|20190501143123||||20190501143123|'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 /U []:
+  Rec: 'PID|1||15002^^^DynamicMED||Meier^Fridolin^^HERR^Herr^^L^^^201901010000&||198901010000|001|||Südhang 1^^Kirchlindach^BE^3038^CH^H^^^^^201901010000&||||DES|LEDIG|||756.9558.1896.96|||||001|1|CH||CH||||||||DES|||'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z4 /U []:
+  Rec: 'NK1|1|Anastasakis^Emmanouil^^^Herr|1^Hausarzt^AdrBez^332|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201901010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190101104500||'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z5 /U []:
+  Rec: 'NK1|2|Mutter^Mama^^^Frau|8^Eltern^AdrBez^|Teststrasse 10^^Bern^^3012^^^^^^^201901010000&|031 828 14 49^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190101104500||'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z6 /U []:
+  Rec: 'NK1|3|Bartlome^Andre^^^HERR|100^^AdrBez^1012539|^^^^^^^^^^^201901010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190101104500||'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 /U []:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 /U []:
+  Rec: 'PV2||EINZEL|^||||||||||||||||||||||||||||||||||||'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 20190501143134000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 /U []:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Konversionsfehler in Feld "All.TYP" bei [1:2] [2/0/0/Pa:PID;PF:PV1;PF1:GT1;] (): "
+        THEN 
+        ELSE NULL
+    END
+)"
+Linke Klammer fehlt
+07.05.2019 15:44:48 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:44:53 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:47:39 Online
+07.05.2019 15:47:41 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:41 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:41 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:41 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:41 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:41 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:42 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:43 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:43 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:44 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:47:45 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:45 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:45 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:47:45 Offline
+07.05.2019 15:47:45 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^Bartlome^Andre^^^HERR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:45 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z9 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:47:45 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:52:01 Online
+07.05.2019 15:52:02 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 PF/U [ TDMKonversion.ImportPF]:
+  Rec: 'PV1|1|A|AMBBU^123^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|1012539^^^^^^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+07.05.2019 15:52:02 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Fa.FID ist Null
+07.05.2019 15:52:02 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:52:05 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:55:54 Online
+07.05.2019 15:55:56 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:56 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:56 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:57 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:57 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:57 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:57 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:57 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:57 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:57 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:57 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:57 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:57 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:57 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:57 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:57 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:58 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:58 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:58 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:58 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:58 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:58 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:58 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:58 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:58 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:58 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:58 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:58 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:58 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:58 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:59 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:59 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:59 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:59 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+07.05.2019 15:55:59 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:59 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:55:59 Offline
+07.05.2019 15:55:59 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:55:59 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:57:18 Online
+07.05.2019 15:57:19 20190501142204000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z8 PF1/U [ TDMKonversion.ImportPF]:
+  Rec: 'GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||'
+  Schlüsselfeld Pa.PID ist Null
+07.05.2019 15:57:19 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:57:21 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:58:43 Online
+07.05.2019 15:58:45 DMKonversion \\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp
+"\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT \Archiv\": Fehler 3
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 15:58:47 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:11:28 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:11:32 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:14:41 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:14:43 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:21:33 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:21:37 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:24:00 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:24:03 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:26:28 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:26:31 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:28:45 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:28:48 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:30:33 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:30:35 Offline
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:31:45 Online
+Import_PatFall_Hl7_Nav
+ -- > 07.05.2019 16:31:48 Offline
+Import_PatFall_Hl7_Nav
+ -- > 08.05.2019 10:10:52 Offline
+Import_PatFall_Hl7_Nav
+ -- > 08.05.2019 15:53:49 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 09:54:17 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 09:54:30 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 09:56:26 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 10:04:50 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 10:24:27 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:03:52 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:14:10 Online
+15.05.2019 14:14:11 20190515140521000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15004^^^DynamicMED||Test Ausserkantonal^Zürich^Dr.^HR DR^Herr^^L^^^201905150000&|Ledigname|198901010000|001|||Langgasse 20^Postfach^Winterthur^ZH^8400^CH^H^^^^^201905150000&||031 308 10 10^PRN^PH^^^^^^~1231564621648^ORN^PH^^^^^^~^NET^Internet^test@test.ch^^^^^|1231564621648^WPN^PH|DES|UNBE|CHRKATH||756.3659.4238.57||||Winterthur ZH|001|1|CH|Testberuf|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:14:11 20190515140521000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z4 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|1|Ausserkantonal^Freida^^^Frau|6^Lebenspartner^AdrBez^|Testrasse 24^^Winterthur^^8401^^^^^^^201905150000&|1111^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:14:11 20190515140521000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z5 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|2|Allemann^Peter^^^HR DR|100^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:14:38 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:16:46 Online
+15.05.2019 14:16:48 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15003^^^DynamicMED||Test Kantonal^Bern^^FRAU^Frau^^L^^^201902010000&||199801010000|002|||Feldstrasse 2^^Münsingen^BE^3110^CH^H^^^^^201902010000&||031 828 14 15^PRN^PH^^^^^^~079 663 22 55^ORN^PH^^^^^^~^NET^Internet^info@suedhang.ch^^^^^|079 663 22 55^WPN^PH|DES|LEDIG|ISLAM||756.3659.4238.57|||||001|1|CH||CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:16:48 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z4 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|1|Anastasakis^Emmanouil^^^Herr|1^Hausarzt^AdrBez^332|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:16:48 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z5 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|2|Kanton^Elsi^^^Frau|8^Eltern^AdrBez^|Bachstrasse^^Kirchlindach^^3038^^^^^^^201902010000&|031 888 44 77^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:16:48 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z6 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|3|Allemann^Peter^^^HR DR|100^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:16:48 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|4|Anastasakis^Emmanouil^^^HR DR|101^^AdrBez^332|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:17:08 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:19:58 Online
+15.05.2019 14:19:59 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15003^^^DynamicMED||Test Kantonal^Bern^^FRAU^Frau^^L^^^201902010000&||199801010000|002|||Feldstrasse 2^^Münsingen^BE^3110^CH^H^^^^^201902010000&||031 828 14 15^PRN^PH^^^^^^~079 663 22 55^ORN^PH^^^^^^~^NET^Internet^info@suedhang.ch^^^^^|079 663 22 55^WPN^PH|DES|LEDIG|ISLAM||756.3659.4238.57|||||001|1|CH||CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:19:59 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z4 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|1|Anastasakis^Emmanouil^^^Herr|1^Hausarzt^AdrBez^332|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:19:59 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z5 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|2|Kanton^Elsi^^^Frau|8^Eltern^AdrBez^|Bachstrasse^^Kirchlindach^^3038^^^^^^^201902010000&|031 888 44 77^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:19:59 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z6 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|3|Allemann^Peter^^^HR DR|100^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:19:59 20190515093620000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z7 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|4|Anastasakis^Emmanouil^^^HR DR|101^^AdrBez^332|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:20:58 20190515142056000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Insert TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||lIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:20:58 20190515142056000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z4 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|1|^^^^|100^^AdrBez^1012547|^^^^^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:20:58 20190515142056000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z5 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|2|Allemann^Peter^^^HR DR|101^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:20:59 20190515142056001.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||lIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:20:59 20190515142056001.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z4 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|1|^^^^|100^^AdrBez^1012547|^^^^^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:20:59 20190515142056001.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z5 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|2|Allemann^Peter^^^HR DR|101^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:24:59 20190515142408000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||LIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:24:59 20190515142408000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z4 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|1|^^^^|100^^AdrBez^1012547|^^^^^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:24:59 20190515142408000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z5 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|2|Allemann^Peter^^^HR DR|101^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:24:59 20190515142408001.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||LIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:24:59 20190515142408001.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z4 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|1|^^^^|100^^AdrBez^1012547|^^^^^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+15.05.2019 14:24:59 20190515142408001.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z5 Adr/U [ TDMKonversion.ImportAdrAzGa]:
+  Rec: 'NK1|2|Allemann^Peter^^^HR DR|101^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201905150000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190515100000||'
+  DmKonv.DatensatzExistiert: KeyList ist leer!
+  Möglicher Grund: PID und FID sind nicht definiert als Import Datenfelder.
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:26:11 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:26:58 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:27:43 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:27:44 Online
+15.05.2019 14:27:45 20190515142739000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||LIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:27:45 20190515142739001.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||LIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:28:16 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:28:51 Online
+15.05.2019 14:28:52 20190515142739000.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||LIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+15.05.2019 14:28:52 20190515142739001.hl7 (\\srv-appl-08\navision_ss$\TEST\TO_POLYPOINT\ec1.tmp), Z3 Pa/U [TDMKonversion.Update TDMKonversion.ImportPa]:
+  Rec: 'PID|1||15005^^^DynamicMED||Test^Stationär^^HERR^Herr^^L^^^201905150000&||200002010000|001|||LIndachstrasse 95^^Kirchlindach^BE^3038^CH^H^^^^^201905150000&||123^PRN^PH^^^^^^~456^ORN^PH^^^^^^~^NET^Internet^info@info.com^^^^^|456^WPN^PH|DES|VERH|JÜDISCH||756.1577.0443.38||||Bern|001|1|CH|Student|CH||||||||DES|||'
+  ORA-00904: "NATIONALITÄT": invalid identifier
+
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:29:01 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:29:42 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:29:47 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:39:13 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:40:02 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:40:38 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:40:38 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:41:08 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:49:39 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 14:59:31 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:07:48 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:15:11 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:25:44 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:26:28 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:26:28 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:26:41 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:27:49 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:27:49 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:28:42 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 15:28:42 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:24:13 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:24:18 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:26:08 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:26:10 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:28:10 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:28:12 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:29:38 Online
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:48:26 Offline
+Import_PatFall_Hl7_Nav
+ -- > 15.05.2019 16:59:19 Offline
+Import_PatFall_Hl7_Nav
+ -- > 16.05.2019 16:39:01 Online
+Import_PatFall_Hl7_Nav
+ -- > 16.05.2019 16:59:12 Offline
+Import_PatFall_Hl7_Nav
+ -- > 16.05.2019 16:59:19 Online
+Import_PatFall_Hl7_Nav
+ -- > 16.05.2019 16:59:26 Offline
+Import_PatFall_Hl7_Nav
+ -- > 16.05.2019 17:01:24 Offline
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 13:34:13 Offline
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 13:34:43 Offline
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 14:10:59 Online
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 16:39:45 Offline
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 16:44:17 Online
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 16:44:20 Offline
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 16:46:25 Online
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 16:47:19 Offline
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 16:58:39 Online
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 16:58:43 Offline
+Import_PatFall_Hl7_Nav
+ -- > 17.05.2019 17:04:07 Offline

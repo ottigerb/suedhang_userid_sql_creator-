@@ -1,0 +1,47 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515090710||ADT^A08|8|P|2.4|||NE|NE|CH|
+EVN|A08|20190514120316||||20190514120316|
+PID|1||12596^^^DynamicMED||Abdirahman^Mohamed^^HERR^Herr^^L^^^201804100000&201805190000^||199001010000|001|||Bümplizstrasse 198^^Bern^BE^3018^CH^H^^^^^201804100000&201805190000^||||DES|LEDIG|ISLAM||756.3646.1305.46|||||001|1|CH||CH||||||||DES|||
+PV1|1|S|QUEA^307^^901^^^^^TANNENHOF|1||^^^^^^^^|^^^^^^^|^^^^^^^|^^^^^^^|||||11|22|Nein||PSYCH|1259607|ALLG|KVG|||||||||||||||11|11||TANNENHOF||||11|20180410100000|20180519100000|||||1259607|V|1|
+DG1|1||F10.2^Psychische und Verhaltensstörungen durch Alkohol: Abhängigkeitssyndrom^ICD||20180410100000||||||||||1|||||
+DG1|2||F10.3^Psychische und Verhaltensstörungen durch Alkohol: Entzugssyndrom^ICD||20180410100000||||||||||2|||||
+DG1|3||F14.2^Psychische und Verhaltensstörungen durch Kokain: Abhängigkeitssyndrom^ICD||20180410100000||||||||||3|||||
+DG1|4||F15.2^Psychische und Verhaltensstörungen durch andere Stimulanzien, einschließlich Koffein: Abhängigkeitssyndrom^ICD||20180410100000||||||||||4|||||
+DG1|5||F12.2^Psychische und Verhaltensstörungen durch Cannabinoide: Abhängigkeitssyndrom^ICD||20180410100000||||||||||5|||||
+DG1|6||F17.2^Psychische und Verhaltensstörungen durch Tabak: Abhängigkeitssyndrom^ICD||20180410100000||||||||||6|||||
+DG1|7||F32.0^Leichte depressive Episode^ICD||20180410100000||||||||||7|||||
+PR1|1||94.6A.1A^Qualifizierter Entzug Abhängigkeitskranker, mindestens 35 bis 41 Behandlungstage^CHOP||20180410|||||||||||
+PR1|2||94.A1.10^HoNOS 1, Stufe 0^CHOP||20180410|||||||||||
+PR1|3||94.A1.22^HoNOS 2, Stufe 2^CHOP||20180410|||||||||||
+PR1|4||94.A1.34^HoNOS 3, Stufe 4^CHOP||20180410|||||||||||
+PR1|5||94.A1.42^HoNOS 4, Stufe 2^CHOP||20180410|||||||||||
+PR1|6||94.A1.51^HoNOS 5, Stufe 1^CHOP||20180410|||||||||||
+PR1|7||94.A1.60^HoNOS 6, Stufe 0^CHOP||20180410|||||||||||
+PR1|8||94.A1.74^HoNOS 7, Stufe 4^CHOP||20180410|||||||||||
+PR1|9||94.A1.81^HoNOS 8, Stufe 1^CHOP||20180410|||||||||||
+PR1|10||94.A1.92^HoNOS 9, Stufe 2^CHOP||20180410|||||||||||
+PR1|11||94.A1.A2^HoNOS 10, Stufe 2^CHOP||20180410|||||||||||
+PR1|12||94.A1.B1^HoNOS 11, Stufe 1^CHOP||20180410|||||||||||
+PR1|13||94.A1.C2^HoNOS 12, Stufe 2^CHOP||20180410|||||||||||
+PR1|14||94.3F.12^Belastungserprobung mit Abwesenheit von 24 Std bis weniger als 48 Std^CHOP||20180421|||||||||||
+PR1|15||94.3F.11^Belastungserprobung mit Abwesenheit von weniger als 24 Std^CHOP||20180427|||||||||||
+PR1|16||94.3F.12^Belastungserprobung mit Abwesenheit von 24 Std bis weniger als 48 Std^CHOP||20180428|||||||||||
+PR1|17||94.3F.11^Belastungserprobung mit Abwesenheit von weniger als 24 Std^CHOP||20180430|||||||||||
+PR1|18||94.3F.11^Belastungserprobung mit Abwesenheit von weniger als 24 Std^CHOP||20180502|||||||||||
+PR1|19||94.3F.11^Belastungserprobung mit Abwesenheit von weniger als 24 Std^CHOP||20180504|||||||||||
+PR1|20||94.3F.12^Belastungserprobung mit Abwesenheit von 24 Std bis weniger als 48 Std^CHOP||20180505|||||||||||
+PR1|21||94.3F.12^Belastungserprobung mit Abwesenheit von 24 Std bis weniger als 48 Std^CHOP||20180512|||||||||||
+PR1|22||94.A1.10^HoNOS 1, Stufe 0^CHOP||20180519|||||||||||
+PR1|23||94.A1.20^HoNOS 2, Stufe 0^CHOP||20180519|||||||||||
+PR1|24||94.A1.33^HoNOS 3, Stufe 3^CHOP||20180519|||||||||||
+PR1|25||94.A1.42^HoNOS 4, Stufe 2^CHOP||20180519|||||||||||
+PR1|26||94.A1.51^HoNOS 5, Stufe 1^CHOP||20180519|||||||||||
+PR1|27||94.A1.60^HoNOS 6, Stufe 0^CHOP||20180519|||||||||||
+PR1|28||94.A1.72^HoNOS 7, Stufe 2^CHOP||20180519|||||||||||
+PR1|29||94.A1.80^HoNOS 8, Stufe 0^CHOP||20180519|||||||||||
+PR1|30||94.A1.92^HoNOS 9, Stufe 2^CHOP||20180519|||||||||||
+PR1|31||94.A1.A2^HoNOS 10, Stufe 2^CHOP||20180519|||||||||||
+PR1|32||94.A1.B1^HoNOS 11, Stufe 1^CHOP||20180519|||||||||||
+PR1|33||94.A1.C1^HoNOS 12, Stufe 1^CHOP||20180519|||||||||||
+GT1|1|90033|Visana Services AG LZ Bern^^^^||Laubeggstrasse 68^Postfach 1^Bern 15^^3000^CH|031 357 84 12|||||||20180410000000|000000|1.||000000||||
+GT1|2|90395|Amt für Erwachsenen- und^^^^||Kindesschutz,Predigergasse 10^Postfach 138^Bern 7^^3000^CH||||||||20180410000000|000000|3.||000000||||
+GT1|3|90580|Gesundheits- u. Fürsorgedirek.^^^^||Abt. Finanzen und Revision^^Bern^^3011^CH||||||||20180410000000|000000|2.||000000||||

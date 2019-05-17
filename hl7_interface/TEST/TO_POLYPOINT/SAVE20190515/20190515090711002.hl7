@@ -1,0 +1,10 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515090711||ADT^A13|12|P|2.4|||NE|NE|CH|
+EVN|A13|20190508113529||||20190508113529|
+PID|1||9675^^^DynamicMED||Balmer-Gavrilovic^Sasa^^HERR^Herr^^L^^^201902010000&201904300000^||198009150000|001|||Mitteldorf 12^^Rupperswil^AG^5102^CH^H^^^^^201902010000&201904300000^||062 897 00 26^PRN^PH^^^^^^~076 536 50 02^ORN^PH^^^^^^|076 536 50 02^WPN^PH|DES|GESCH|ANDERE||756.2487.2466.76|||||001|1|CH||CH||||||||DES|||
+NK1|1|Allemann^Peter^^^HR DR|100^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&201904300000^|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000|20190430100000|
+PV1|1|S|QUEA^124^^901^^^^^QUEA|1||^^^^^^^^|^^^^^^^|^^^^^^^|234^Allemann^Peter^^Dr.^HR DR^^|||KRANKHEIT||84|28|Nein||PSYCH|7050013|ALLG|KVG|||||||||||||||12|11||QUEA|ANWESEND||||20190201100000|20190430100000|||||7050013|V|2|
+PV2||EINZEL|F10.2^Psychische und Verhaltensstörungen durch Alkohol: Abhängigkeitssyndrom||||||||||||||||||||||||||||||||||||
+DG1|1||F10.2^Psychische und Verhaltensstörungen durch Alkohol: Abhängigkeitssyndrom^ICD||20190201100000||||||||||1|||||
+PR1|1||94.3A.1E^Psychotherapeutische und psychosomatische Komplexbehandlung, 84 und mehr Behandlungstage^CHOP||20190201100000|||||||||||
+GT1|1|90330|Depart.Gesundheit und Soziales^^^^||ZRS 50010010^Postfach 2254^Aarau^^5001^CH||||||||20190201000000|000000|2.|807560005090015313492|20211231000000||||
+GT1|2|90418|Agrisano Krankenkasse AG^^^^||Laurstrasse 10^^Brugg AG^^5201^CH|056 461 71 11|||||||20190201000000|000000|1.|807560005090015313492|20211231000000||||

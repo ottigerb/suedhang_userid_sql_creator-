@@ -1,0 +1,9 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190501142845||ADT^A08|3|P|2.4|||NE|NE|CH|
+EVN|A08|20190501142822||||20190501142822|
+PID|1||15002^^^DynamicMED||Meier^Fridolin^^HERR^Herr^^L^^^201901010000&||198901010000|001|||Südhang 1^^Kirchlindach^BE^3038^CH^H^^^^^201901010000&||||DES|LEDIG|||756.9558.1896.96|||||001|1|CH||CH||||||||DES|||
+NK1|1|Anastasakis^Emmanouil^^^Herr|1^Hausarzt^AdrBez^332|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201901010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190101104500||
+NK1|2|Mutter^Mama^^^Frau|8^Eltern^AdrBez^|Teststrasse 10^^Bern^^3012^^^^^^^201901010000&|031 828 14 49^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190101104500||
+NK1|3|Allemann^Peter^^^HR DR|100^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201901010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190101104500||
+PV1|1|A|AMBBU^404^^913^^^^^AMBIBU|1||^^^^^^^^|332^Anastasakis^Emmanouil^^^Herr^^|^^^^^^^|234^Allemann^Peter^^Dr.^HR DR^^|||KRANKHEIT||11||Ja||PSYCH|7050011|ALLG|KVG||||||||||||||||||AMBIBU|ANWESEND|||12|20190101104500||||||7050011|V|1|
+PV2||EINZEL|^||||||||||||||||||||||||||||||||||||
+GT1|1|90502|Visana Services AG^^^^||Leistungszentrum Taggeld^Weltpoststrasse 19^Bern 15^^3000^CH|||||||123|20190101000000|000000|1.|456|20201231000000||||

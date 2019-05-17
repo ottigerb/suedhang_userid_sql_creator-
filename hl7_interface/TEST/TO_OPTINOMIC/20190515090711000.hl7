@@ -1,0 +1,7 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515090711||ADT^A03|10|P|2.4|||NE|NE|CH|
+EVN|A03|20190507154542||||20190507154542|
+PID|1||15001^^^DynamicMED||Müsterli^Mona^^FRAU^Frau^^L^^^201904010000&201905150000^||197008130000|002|||Häberlistrasse 5 ^^Köniz^BE^3098^CH^H^^^^^201904010000&201905150000^||031 888 22 11^PRN^PH^^^^^^~079 179 18 19^ORN^PH^^^^^^|079 179 18 19^WPN^PH|DES|LEDIG|OHNE||756.2506.4547.78||||Oltigen|001|1|CH||CH||||||||DES|||
+PV1|1|S|PTS^121A^^905^^^^^PTS|1||PTS^121A^^905^^^^^PTS|^^^^^^^|105^Adank^Christian^^Dr.^HR DR^^|234^Allemann^Peter^^Dr.^HR DR^^|||KRANKHEIT||||Nein||PSYCH|7050012|ALLG|KVG||||||||||||||||||PTS|ANWESEND||||20190401100000|20190515100000|||||7050012|V|4|
+PV2||DOPPEL|F10.2^Psychische und Verhaltensstörungen durch Alkohol: Abhängigkeitssyndrom||||||||||||||||||||||||||||||||||||
+DG1|1||F10.2^Psychische und Verhaltensstörungen durch Alkohol: Abhängigkeitssyndrom^ICD||20190401100000||||||||||1|||||
+PR1|1||94.8X.30^Psychosoziale Beratung des Patientensystems, mindestens 50 Minuten bis 2 Stunden^CHOP||20190401100000|||||||||||

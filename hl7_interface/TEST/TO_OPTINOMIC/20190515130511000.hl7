@@ -1,0 +1,10 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515130511||ADT^A08|25|P|2.4|||NE|NE|CH|
+EVN|A08|20190515130450||||20190515130450|
+PID|1||15003^^^DynamicMED||Test Kantonal^Bern^^FRAU^Frau^^L^^^201902010000&||199801010000|002|||Feldstrasse 30^^Münsingen^BE^3110^CH^H^^^^^201902010000&||031 828 14 15^PRN^PH^^^^^^~079 663 22 55^ORN^PH^^^^^^~^NET^Internet^info@suedhang.ch^^^^^|079 663 22 55^WPN^PH|DES|LEDIG|ISLAM||756.3659.4238.57|||||001|1|CH||CH||||||||DES|||
+NK1|1|Krebs^Thomas^^^Herr|1^Hausarzt^AdrBez^252|c/o Klinik Südhang^Südhang^Kirchlindach^^3038^^^^^^^201902010000&|031 828 14 14^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||
+NK1|2|Kanton^Elsi^^^Frau|8^Eltern^AdrBez^|Bachstrasse^^Kirchlindach^^3038^^^^^^^201902010000&|031 888 44 77^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||
+NK1|3|Allemann^Peter^^^HR DR|100^^AdrBez^234|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||
+NK1|4|Anastasakis^Emmanouil^^^HR DR|101^^AdrBez^332|Südhang^Südhang 1^Kirchlindach^^3038^^^^^^^201902010000&|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190201100000||
+PV1|1|A|AMBKIRCH^^^909^^^^^AMBIKL|1||^^^^^^^^|252^Krebs^Thomas^^^Herr^^|332^Anastasakis^Emmanouil^^Dr.^HR DR^^|234^Allemann^Peter^^Dr.^HR DR^^|||KRANKHEIT||31|10|Nein||PSYCH|7050014|ALLG|KVG|||||||||||||||11|11||AMBIKL|ANWESEND|||11|20190201100000||||||7050014|V|2|
+DG1|1||F10.2^Psychische und Verhaltensstörungen durch Alkohol: Abhängigkeitssyndrom^ICD||20190201100000||||||||||1|||||
+GT1|1|90418|Agrisano Krankenkasse AG^^^^||Laurstrasse 10^^Brugg AG^^5201^CH|056 461 71 11||||||15300|20190201000000|000000|1.|80756013840042865548|20220630000000||||

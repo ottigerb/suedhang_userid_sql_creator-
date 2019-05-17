@@ -1,0 +1,39 @@
+MSH|^~\&|DynamicMED|Verwaltung|EGATE|Kommunikationsserver|20190515090710||ADT^A08|7|P|2.4|||NE|NE|CH|
+EVN|A08|20190513091639||||20190513091639|
+PID|1||9567^^^DynamicMED||Perrottet^Olivier^^HERR^Herr^^L^^^201903110000&201903300000^||195505250000|001|||Longchamps 28^^Orvin^BE^2534^CH^H^^^^^201903110000&201903300000^||~079 818 18 21^ORN^PH^^^^^^~^NET^Internet^operrottet@bluewin.ch^^^^^|079 818 18 21^WPN^PH|DES|GETR|OHNE||756.8162.0457.32|||||001|1|CH||CH||||||||DES|||
+NK1|1|^^^^|100^^AdrBez^1012573|^^^^^^^^^^^201903110000&201903300000^|^PRN^PH^^^^^^^ORN^PH^^^^^^|||20190311134500|20190330100000|
+PV1|1|S|QUEA^126^^901^^^^^QUEA|1||^^^^^^^^|^^^^^^^|^^^^^^^|1012573^^^^^^^|||||34|26|Nein||PSYCH|956704|ALLG|KVG|||||||||||||||11|11||QUEA||||11|20190311134500|20190330100000|||||956704|V|1|
+DG1|1||F10.2^Psychische und Verhaltensstörungen durch Alkohol: Abhängigkeitssyndrom^ICD||20190311134500||||||||||1|||||
+DG1|2||F10.3^Psychische und Verhaltensstörungen durch Alkohol: Entzugssyndrom^ICD||20190311134500||||||||||2|||||
+DG1|3||F13.2^Psychische und Verhaltensstörungen durch Sedativa oder Hypnotika: Abhängigkeitssyndrom^ICD||20190311134500||||||||||3|||||
+DG1|4||F33.1^Rezidivierende depressive Störung, gegenwärtig mittelgradige Episode^ICD||20190311134500||||||||||4|||||
+DG1|5||J40^Bronchitis, nicht als akut oder chronisch bezeichnet^ICD||20190311134500||||||||||5|||||
+DG1|6||I10.90^Essentielle Hypertonie, nicht näher bezeichnet: Ohne Angabe einer hypertensiven Krise^ICD||20190311134500||||||||||6|||||
+PR1|1||94.6A.16^Qualifizierter Entzug Abhängigkeitskranker, mindestens 14 bis 20 Behandlungstage^CHOP||20190311130000|||||||||||
+PR1|2||94.A1.10^HoNOS 1, Stufe 0^CHOP||20190311|||||||||||
+PR1|3||94.A1.20^HoNOS 2, Stufe 0^CHOP||20190311|||||||||||
+PR1|4||94.A1.33^HoNOS 3, Stufe 3^CHOP||20190311|||||||||||
+PR1|5||94.A1.40^HoNOS 4, Stufe 0^CHOP||20190311|||||||||||
+PR1|6||94.A1.50^HoNOS 5, Stufe 0^CHOP||20190311|||||||||||
+PR1|7||94.A1.60^HoNOS 6, Stufe 0^CHOP||20190311|||||||||||
+PR1|8||94.A1.72^HoNOS 7, Stufe 2^CHOP||20190311|||||||||||
+PR1|9||94.A1.80^HoNOS 8, Stufe 0^CHOP||20190311|||||||||||
+PR1|10||94.A1.91^HoNOS 9, Stufe 1^CHOP||20190311|||||||||||
+PR1|11||94.A1.A0^HoNOS 10, Stufe 0^CHOP||20190311|||||||||||
+PR1|12||94.A1.B0^HoNOS 11, Stufe 0^CHOP||20190311|||||||||||
+PR1|13||94.A1.C0^HoNOS 12, Stufe 0^CHOP||20190311|||||||||||
+PR1|14||94.3F.12^Belastungserprobung mit Abwesenheit von 24 Std bis weniger als 48 Std^CHOP||20190323|||||||||||
+PR1|15||94.A1.10^HoNOS 1, Stufe 0^CHOP||20190330|||||||||||
+PR1|16||94.A1.20^HoNOS 2, Stufe 0^CHOP||20190330|||||||||||
+PR1|17||94.A1.30^HoNOS 3, Stufe 0^CHOP||20190330|||||||||||
+PR1|18||94.A1.40^HoNOS 4, Stufe 0^CHOP||20190330|||||||||||
+PR1|19||94.A1.51^HoNOS 5, Stufe 1^CHOP||20190330|||||||||||
+PR1|20||94.A1.60^HoNOS 6, Stufe 0^CHOP||20190330|||||||||||
+PR1|21||94.A1.70^HoNOS 7, Stufe 0^CHOP||20190330|||||||||||
+PR1|22||94.A1.80^HoNOS 8, Stufe 0^CHOP||20190330|||||||||||
+PR1|23||94.A1.90^HoNOS 9, Stufe 0^CHOP||20190330|||||||||||
+PR1|24||94.A1.A0^HoNOS 10, Stufe 0^CHOP||20190330|||||||||||
+PR1|25||94.A1.B0^HoNOS 11, Stufe 0^CHOP||20190330|||||||||||
+PR1|26||94.A1.C2^HoNOS 12, Stufe 2^CHOP||20190330|||||||||||
+GT1|1|90033|Visana Services AG LZ Bern^^^^||Laubeggstrasse 68^Postfach 1^Bern 15^^3000^CH|031 357 84 12|||||||20190311000000|000000|1.||000000||||
+GT1|2|90580|Gesundheits- u. Fürsorgedirek.^^^^||Abt. Finanzen und Revision^^Bern^^3011^CH||||||||20190311000000|000000|2.||000000||||
